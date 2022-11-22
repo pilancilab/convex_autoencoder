@@ -1,9 +1,13 @@
 # Convex Optimization based Autoencoder Neural Networks
-## based on the paper
-## V. Gupta, B. Bartan, T. Ergen, M. Pilanci
-## Convex Neural Autoregressive Models: Towards Tractable, Expressive, and Theoretically-Backed Models for Sequential Forecasting and Generation
-## IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021 
-## (Outstanding Student Paper Award)
+based on the paper
+
+V. Gupta, B. Bartan, T. Ergen, M. Pilanci
+
+Convex Neural Autoregressive Models: Towards Tractable, Expressive, and Theoretically-Backed Models for Sequential Forecasting and Generation
+
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021 
+
+(Outstanding Student Paper Award)
 
 ## Dependencies
 Python 3.7.4
